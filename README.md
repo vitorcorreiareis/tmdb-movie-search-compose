@@ -108,21 +108,11 @@ app/src/main/java/com/example/tmdb/
 
 ---
 
-## 🖼️ Demonstração da interface
 
-*(Imagens do app em funcionamento — tela inicial, busca em andamento, resultados e diálogo de detalhes)*
-
-<!-- Adicione aqui os prints, exemplo:
-![Tela inicial](screenshots/tela-inicial.png)
-![Busca de filmes](screenshots/busca.png)
-![Detalhes do filme](screenshots/detalhes.png)
--->
-
----
 
 ## 🎥 Vídeo demonstrativo
 
-🔗 *[Link do vídeo no YouTube (Não Listado) — adicionar aqui]*
+🔗 https://youtu.be/UkaRWkYdb78
 
 ---
 
